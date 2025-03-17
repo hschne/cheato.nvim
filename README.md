@@ -6,11 +6,8 @@
 
 </div>
 
-<div align="center">
+https://github.com/user-attachments/assets/3d8bd755-e3f5-4f4f-8f71-55c049257dda
 
-[Cheato](cheato.mp4)
-
-</div>
 
 ## Installation
 
