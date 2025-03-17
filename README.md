@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Cheato](cheato.mp4)
+[Cheato](cheato.mp4)
 
 </div>
 
