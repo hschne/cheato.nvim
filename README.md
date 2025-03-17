@@ -6,8 +6,7 @@
 
 </div>
 
-
-![Cheato](https://github.com/user-attachments/assets/9e2f3022-9f5a-47f4-bf40-6163f8be4450)  
+![Cheato](cheato.webp)
 
 ## Installation
 
