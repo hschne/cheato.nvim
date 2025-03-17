@@ -6,7 +6,11 @@
 
 </div>
 
-![Cheato](cheato.gif)
+<div align="center">
+
+![Cheato](cheato.mp4)
+
+</div>
 
 ## Installation
 
