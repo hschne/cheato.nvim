@@ -44,11 +44,33 @@ use({
 
 ```lua
 require("cheatsheet").setup({
-  directory = "~/my-cheatsheets-directory",
+  directory = "~/cheatsheets",
 }
 ```
 
 </details>
+
+### Keymaps
+
+You can use the user command `Cheato` to open the cheat sheet picker.
+
+#### Vim
+
+```vim
+vim.keymap.set("n", "<leader>oc", ":Cheato<cr>")
+```
+
+#### Lazy
+
+```lua
+keys = {
+  {
+    "<leader>oc",
+    ":Cheato<cr>",
+    desc = "Open cheat sheet",
+  },
+},
+```
 
 ## Cheatsheets
 
