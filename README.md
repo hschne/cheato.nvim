@@ -6,7 +6,7 @@
 
 </div>
 
-![Cheato](cheato.webp)
+![Cheato](cheato.webm)
 
 ## Installation
 
