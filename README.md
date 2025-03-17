@@ -4,10 +4,9 @@
 
 ### A Neovim plugin to view Markdown cheat sheets
 
-</div>
-
 https://github.com/user-attachments/assets/3d8bd755-e3f5-4f4f-8f71-55c049257dda
 
+</div>
 
 ## Installation
 
