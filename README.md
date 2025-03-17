@@ -6,7 +6,7 @@
 
 </div>
 
-![Cheato](cheato.webm)
+![Cheato](cheato.gif)
 
 ## Installation
 
