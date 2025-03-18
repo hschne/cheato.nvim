@@ -80,7 +80,7 @@ function Cheato.show_cheat_sheets()
 		actions = {
 			["default"] = function(selected)
 				if selected and selected[1] then
-					Cheato.show_cheat_sheet(file_map[selected[1]])
+					H.show_cheat_sheet(file_map[selected[1]])
 				end
 			end,
 		},
