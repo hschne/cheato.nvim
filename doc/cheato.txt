@@ -1,7 +1,6 @@
 ==============================================================================
 ------------------------------------------------------------------------------
-*cheato.nvim* View markdown cheat files
-*Cheato*
+*cheato.nvim*
 
 MIT License Copyright (c) 2025 Hans Schnedlitz
 
@@ -11,10 +10,7 @@ Cheato lists available markdown cheat files and renders them in a floating windo
 
 # Setup ~
 
-This module needs a setup with `require('cheato').setup({})` (replace
-`{}` with your `config` table).
-
-See |Cheato.config| for available config settings.
+This module needs a setup with `require('cheato').setup({})` (replace `{}` with your `config` table). See |Cheato.config| for available config settings.
 
 ------------------------------------------------------------------------------
                                                                 *Cheato.setup()*
@@ -35,11 +31,15 @@ Default values:
   	directory = "~/Documents/cheatsheets",
   }
 
-  -- Helper data ================================================================
-  -- Module default config
-
-  -- Get all markdown files from the configured directory
+  -- Main function to show and select cheatsheets
+  --
 <
+------------------------------------------------------------------------------
+                                                    *Cheato.show_cheat_sheets()*
+                          `Cheato.show_cheat_sheets`()
+Return ~
+`(nil)`
+
 ------------------------------------------------------------------------------
                                                           *H.get_cheat_sheets()*
                              `H.get_cheat_sheets`()
@@ -76,12 +76,6 @@ Return ~
                         `H.show_cheat_sheet`({filepath})
 Parameters ~
 {filepath} `(string)` Path to the cheatsheet file to display
-Return ~
-`(nil)`
-
-------------------------------------------------------------------------------
-                                                    *Cheato.show_cheat_sheets()*
-                          `Cheato.show_cheat_sheets`()
 Return ~
 `(nil)`
 

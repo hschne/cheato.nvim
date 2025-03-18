@@ -1,5 +1,4 @@
---- *cheato.nvim* View markdown cheat files
---- *Cheato*
+--- *cheato.nvim*
 ---
 --- MIT License Copyright (c) 2025 Hans Schnedlitz
 ---
@@ -9,10 +8,7 @@
 ---
 --- # Setup ~
 ---
---- This module needs a setup with `require('cheato').setup({})` (replace
---- `{}` with your `config` table).
----
---- See |Cheato.config| for available config settings.
+--- This module needs a setup with `require('cheato').setup({})` (replace `{}` with your `config` table). See |Cheato.config| for available config settings.
 
 -- Module definition ==========================================================
 local Cheato = {}
